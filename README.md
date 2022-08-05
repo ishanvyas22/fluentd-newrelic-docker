@@ -1,4 +1,4 @@
-# Log monitoring using Fluentd and New Relic
+# Forward docker logs to New Relic using Fluentd
 
 ## Usage
 
