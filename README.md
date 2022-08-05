@@ -29,11 +29,11 @@
 	  app:
 	    build: .
 	      - "80:80"
-		logging:
-		  driver: "fluentd"
-		  options:
-		    fluentd-address: localhost:24224
-		    tag: app
+	    logging:
+	      driver: "fluentd"
+	      options:
+	        fluentd-address: localhost:24224
+	        tag: app
     ...
 	```
 
