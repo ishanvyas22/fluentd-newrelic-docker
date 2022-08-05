@@ -1,4 +1,4 @@
-# Forward docker logs to New Relic using Fluentd
+# Forward docker container logs to New Relic using Fluentd
 
 ## Usage
 
